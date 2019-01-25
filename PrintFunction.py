@@ -1,23 +1,9 @@
 '''
 Author: Atharv Damle
 
-#Question Statement below from hackerrank (https://www.hackerrank.com/challenges/python-print/problem)
+#Question Statement on hackerrank (https://www.hackerrank.com/challenges/python-print/problem)
 
-Read an integer .
-Without using any string methods, try to print the following:
-Note that "" represents the values in between.
-
-Input Format
-The first line contains an integer .
-
-Output Format
-Output the answer as explained in the task.
-
-Sample Input 0
-3
-
-Sample Output 0
-123
+# tl:dr; print numbers from 1 to n without spaces
 '''
 
 if __name__ == '__main__':
