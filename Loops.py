@@ -1,31 +1,10 @@
 '''
 Author: Atharv Damle
 
-# Question statement below from hackerrank (https://www.hackerrank.com/challenges/python-loops/problem)
-Task 
-Read an integer . For all non-negative integers , print . See the sample for details.
+# For complete Question statement go to hackerrank (https://www.hackerrank.com/challenges/python-loops/problem)
+# Copyright issues don't allow me to display it here...
 
-Input Format
-
-The first and only line contains the integer, .
-
-Constraints
-
-
-Output Format
-
-Print  lines, one corresponding to each .
-
-Sample Input 0
-
-5
-Sample Output 0
-
-0
-1
-4
-9
-16
+# tldr; Print square of numbers from 1 to n. (Use exponential operator)
 '''
 
 if __name__ == '__main__':
