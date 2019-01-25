@@ -1,4 +1,4 @@
-/**
+'''
 Author: Atharv Damle
 
 # Question statement below from hackerrank (https://www.hackerrank.com/challenges/python-loops/problem)
@@ -26,7 +26,7 @@ Sample Output 0
 4
 9
 16
-*/
+'''
 
 if __name__ == '__main__':
     n = int(input())
